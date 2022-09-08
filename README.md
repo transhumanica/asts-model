@@ -1,2 +1,1 @@
-# asts-model
-$ASTS valuation model
+Source code for our configurable interactive ASTS valuation model is coming soon (we still need to clean up the code, add some comments etc). In the meantime, you can already create custom scenarios in the live hosted model at our website: https://transhumanica.com/asts/model
